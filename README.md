@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Estanislao                                                                     
+## Hi there, Estanislao here 👋
 
-Electronics Engineer and Embedded Systems Specialist based in Argentina. I build low-level firmware for ARM Cortex-M and other constrained platforms, mostly in C, with Rust and VHDL on the side.
+I'm an Electronics Engineer and Embedded Systems Specialist based in Argentina. I build low-level firmware for ARM Cortex-M and other constrained platforms, mostly in C, with Rust and VHDL on the side.
 
 **Here you'll find:**                                                                                                         
 - Bare-metal and RTOS templates (FreeRTOS, Zephyr) for STM32, AVR and other MCUs.       
